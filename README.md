@@ -1,6 +1,6 @@
-# 🤖 Automação de Relatório de Vendas com Python - Projeto #Treinamentos
+# 🤖 Automação de Relatório de Vendas com Python
 
-Este projeto foi desenvolvido durante o curso **#Treinamentos** com o objetivo de aplicar conceitos de automação utilizando Python na prática.
+Este projeto foi desenvolvido durante meus estudos no curso **#Treinamentos**, com o objetivo de aplicar na prática conceitos de automação utilizando Python.
 
 A aplicação realiza uma automação completa para coletar, processar e enviar um relatório de vendas automaticamente.
 
@@ -16,6 +16,15 @@ A aplicação realiza uma automação completa para coletar, processar e enviar 
   * 💰 Faturamento total
   * 📦 Quantidade de produtos vendidos
 * Envia um e-mail automático com o relatório
+
+---
+
+## 🧠 Conceitos aplicados
+
+* Automação de tarefas com Python
+* Manipulação de dados com Pandas
+* Leitura e processamento de arquivos Excel
+* Automação de interface com PyAutoGUI
 
 ---
 
