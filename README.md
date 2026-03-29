@@ -1,6 +1,8 @@
 # 🤖 Automação de Relatório de Vendas com Python - Projeto #Treinamentos
 
-Este projeto realiza uma automação completa utilizando Python para coletar, processar e enviar um relatório de vendas automaticamente.
+Este projeto foi desenvolvido durante o curso **#Treinamentos** com o objetivo de aplicar conceitos de automação utilizando Python na prática.
+
+A aplicação realiza uma automação completa para coletar, processar e enviar um relatório de vendas automaticamente.
 
 ---
 
@@ -45,7 +47,6 @@ Eric Domingues
 
 ## 📸 Demonstração
 
-
 ![Automação rodando](img/demo.gif)
 
 ---
@@ -55,7 +56,7 @@ Eric Domingues
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/automacao-relatorio-vendas-python.git
+git clone https://github.com/eric-domingues1/automacao-relatorio-vendas-python.git
 ```
 
 ---
@@ -68,18 +69,22 @@ pip install pandas pyautogui openpyxl pyperclip
 
 ---
 
-### 3. Executar o script
+### 3. Executar o projeto
 
-```bash
-python automacao_relatorio.py
+Abra o arquivo abaixo no VS Code ou Jupyter Notebook:
+
 ```
+automacao_relatorio.ipynb
+```
+
+Execute as células passo a passo para rodar a automação.
 
 ---
 
 ## ⚠️ Observações importantes
 
 * As coordenadas do mouse podem variar conforme a resolução da tela
-* Pode ser necessário ajustar os tempos (`time.sleep`) dependendo da sua internet
+* Pode ser necessário ajustar os tempos (`time.sleep`) dependendo da velocidade da internet
 * O caminho do arquivo Excel pode precisar de ajuste no seu computador
 
 ---
@@ -87,7 +92,8 @@ python automacao_relatorio.py
 ## 💡 Melhorias futuras
 
 * Tornar a automação independente da resolução da tela
-* Integrar com API (evitar uso de automação de mouse)
+* Integrar com APIs (evitar automação baseada em cliques)
+* Converter o projeto para `.py` (padrão de mercado)
 * Criar interface gráfica
 * Agendar execução automática (Task Scheduler / Cron)
 
@@ -98,10 +104,10 @@ python automacao_relatorio.py
 ```
 📂 automacao-relatorio-vendas-python
  ┣ 📂 img
- ┃ ┗ 📸 print.png
+ ┃ ┗ 📸 demo.gif
  ┣ 📄 automacao_relatorio.ipynb
  ┣ 📄 README.md
- 
+
 ```
 
 ---
@@ -109,4 +115,3 @@ python automacao_relatorio.py
 ## 📌 Autor
 
 Desenvolvido por **Eric Domingues** 🚀
-
